@@ -1,0 +1,7 @@
+{
+    "version": 1,
+    "manifests": [
+        "raylib.src",
+        "glfw.src"
+    ]
+}
