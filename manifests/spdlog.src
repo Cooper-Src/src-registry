@@ -1,0 +1,14 @@
+name = spdlog
+version = 1.16
+description = Fast C++ logging library.
+
+[source]
+type = git
+url = https://github.com/gabime/spdlog.git
+branch = v1.x
+
+[license]
+name = MIT
+
+[homepage]
+url = https://github.com/gabime/spdlog

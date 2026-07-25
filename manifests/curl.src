@@ -1,0 +1,14 @@
+name = curl
+version = 8
+description = Command line tool and library for transferring data with URLs.
+
+[source]
+type = git
+url = https://github.com/curl/curl.git
+branch = master
+
+[license]
+name = curl
+
+[homepage]
+url = https://curl.se
