@@ -3,13 +3,13 @@
     "manifests": [
         "raylib.src",
         "glfw.src",
-        "cjson",
-        "curl",
-        "fmt",
-        "glad",
-        "imgui",
-        "spdlog",
-        "sqlite",
-        "zlib"
+        "cjson.src",
+        "curl.src",
+        "fmt.src",
+        "glad.src",
+        "imgui.src",
+        "spdlog.src",
+        "sqlite.src",
+        "zlib.src"
     ]
 }
