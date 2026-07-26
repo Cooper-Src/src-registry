@@ -1,0 +1,14 @@
+name = catch2
+version = 3.10
+description = Modern C++ testing framework.
+
+[source]
+type = git
+url = https://github.com/catchorg/Catch2.git
+branch = devel
+
+[license]
+name = BSL-1.0
+
+[homepage]
+url = https://github.com/catchorg/Catch2

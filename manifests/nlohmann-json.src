@@ -1,0 +1,14 @@
+name = nlohmann-json
+version = 3.12
+description = Modern JSON library for C++.
+
+[source]
+type = git
+url = https://github.com/nlohmann/json.git
+branch = develop
+
+[license]
+name = MIT
+
+[homepage]
+url = https://json.nlohmann.me

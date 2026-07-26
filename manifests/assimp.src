@@ -1,0 +1,14 @@
+name = assimp
+version = 6.0
+description = Open Asset Import Library supporting dozens of 3D model formats.
+
+[source]
+type = git
+url = https://github.com/assimp/assimp.git
+branch = master
+
+[license]
+name = BSD-3-Clause
+
+[homepage]
+url = https://www.assimp.org

@@ -1,0 +1,1 @@
+name = doctestversion = 2.4description = Lightweight C++ testing framework.[source]type = giturl = https://github.com/doctest/doctest.gitbranch = master[license]name = MIT[homepage]url = https://github.com/doctest/doctest

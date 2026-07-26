@@ -1,0 +1,14 @@
+name = tinyxml2
+version = 11.0
+description = Simple, small and efficient XML parser.
+
+[source]
+type = git
+url = https://github.com/leethomason/tinyxml2.git
+branch = master
+
+[license]
+name = Zlib
+
+[homepage]
+url = https://github.com/leethomason/tinyxml2

@@ -1,0 +1,14 @@
+name = libpng
+version = 1.6
+description = Official PNG reference library.
+
+[source]
+type = git
+url = https://github.com/pnggroup/libpng.git
+branch = libpng16
+
+[license]
+name = libpng-2.0
+
+[homepage]
+url = http://www.libpng.org/pub/png/libpng.html

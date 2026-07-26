@@ -1,0 +1,14 @@
+name = libuv
+version = 1.51
+description = Multi-platform asynchronous I/O library.
+
+[source]
+type = git
+url = https://github.com/libuv/libuv.git
+branch = v1.x
+
+[license]
+name = MIT
+
+[homepage]
+url = https://libuv.org

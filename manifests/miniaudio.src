@@ -1,0 +1,14 @@
+name = miniaudio
+version = 0.11
+description = Single-file audio playback and capture library.
+
+[source]
+type = git
+url = https://github.com/mackron/miniaudio.git
+branch = master
+
+[license]
+name = MIT
+
+[homepage]
+url = https://miniaud.io

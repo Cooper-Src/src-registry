@@ -1,0 +1,14 @@
+name = stb
+version = 2025
+description = Collection of single-file public domain libraries for C/C++.
+
+[source]
+type = git
+url = https://github.com/nothings/stb.git
+branch = master
+
+[license]
+name = Public Domain / MIT
+
+[homepage]
+url = https://github.com/nothings/stb

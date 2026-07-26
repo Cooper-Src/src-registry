@@ -1,0 +1,14 @@
+name = glm
+version = 1.0
+description = Header-only C++ mathematics library for graphics software.
+
+[source]
+type = git
+url = https://github.com/g-truc/glm.git
+branch = master
+
+[license]
+name = MIT
+
+[homepage]
+url = https://github.com/g-truc/glm

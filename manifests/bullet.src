@@ -1,0 +1,14 @@
+name = bullet
+version = 3.25
+description = Real-time collision detection and physics simulation.
+
+[source]
+type = git
+url = https://github.com/bulletphysics/bullet3.git
+branch = master
+
+[license]
+name = Zlib
+
+[homepage]
+url = https://pybullet.org

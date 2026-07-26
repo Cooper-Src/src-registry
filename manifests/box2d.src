@@ -1,0 +1,14 @@
+name = box2d
+version = 3.1
+description = 2D physics engine for games.
+
+[source]
+type = git
+url = https://github.com/erincatto/box2d.git
+branch = main
+
+[license]
+name = MIT
+
+[homepage]
+url = https://box2d.org
