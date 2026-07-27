@@ -1,0 +1,14 @@
+name = bde
+version = unknown
+description = Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.
+
+[source]
+type = git
+url = https://github.com/bloomberg/bde
+branch = main
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = 
