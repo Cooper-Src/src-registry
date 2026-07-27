@@ -1,0 +1,14 @@
+name = pytorch
+version = 2.7.0
+description = Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+
+[source]
+type = git
+url = https://github.com/pytorch/pytorch.git
+branch = main
+
+[license]
+name = BSD-3-Clause
+
+[homepage]
+url = https://pytorch.org

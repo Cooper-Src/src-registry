@@ -1,0 +1,14 @@
+name = glog
+version = 0.7.1
+description = C++ implementation of the Google logging module.
+
+[source]
+type = git
+url = https://github.com/google/glog.git
+branch = master
+
+[license]
+name = BSD-3-Clause
+
+[homepage]
+url = https://github.com/google/glog

@@ -1,0 +1,14 @@
+name = cockroachdb
+version = 25.1.0
+description = CockroachDB - the open source, cloud-native distributed SQL database.
+
+[source]
+type = git
+url = https://github.com/cockroachdb/cockroach.git
+branch = master
+
+[license]
+name = BSL-1.0
+
+[homepage]
+url = https://www.cockroachlabs.com

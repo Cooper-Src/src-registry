@@ -1,0 +1,14 @@
+name = parallel-hashmap
+version = 1.4.0
+description = A family of header-only, very fast and memory-friendly hashmap and btree containers.
+
+[source]
+type = git
+url = https://github.com/greg7mdp/parallel-hashmap.git
+branch = main
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = https://github.com/greg7mdp/parallel-hashmap

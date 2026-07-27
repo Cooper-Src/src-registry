@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name = abseil-cpp
 version = 20260526.0
 description = Abseil Common Libraries (C++)
@@ -12,3 +13,19 @@ name = Apache-2.0
 
 [homepage]
 url = https://abseil.io
+=======
+name = abseil-cpp
+version = 20260526.0
+description = Abseil Common Libraries (C++)
+
+[source]
+type = git
+url = https://github.com/abseil/abseil-cpp
+branch = master
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = https://abseil.io
+>>>>>>> 0351473 (100 packages)

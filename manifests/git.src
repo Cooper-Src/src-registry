@@ -1,0 +1,14 @@
+name = git
+version = 2.49.0
+description = Git Source Code Mirror.
+
+[source]
+type = git
+url = https://github.com/git/git.git
+branch = master
+
+[license]
+name = GPL-2.0
+
+[homepage]
+url = https://git-scm.com

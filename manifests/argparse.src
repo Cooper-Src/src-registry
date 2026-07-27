@@ -1,0 +1,14 @@
+name = argparse
+version = 3.1
+description = Argument Parser for Modern C++.
+
+[source]
+type = git
+url = https://github.com/p-ranav/argparse.git
+branch = main
+
+[license]
+name = MIT
+
+[homepage]
+url = https://github.com/p-ranav/argparse

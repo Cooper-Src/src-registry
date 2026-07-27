@@ -1,0 +1,14 @@
+name = xgboost
+version = 2.1.4
+description = Scalable, Portable and Distributed Gradient Boosting Library.
+
+[source]
+type = git
+url = https://github.com/xgboost/xgboost.git
+branch = master
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = https://xgboost.ai

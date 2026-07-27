@@ -1,0 +1,14 @@
+name = wangle
+version = 2025.07.14.00
+description = A framework providing a set of common client/server abstractions.
+
+[source]
+type = git
+url = https://github.com/facebook/wangle.git
+branch = main
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = https://github.com/facebook/wangle

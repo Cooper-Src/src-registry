@@ -1,0 +1,14 @@
+name = dlib
+version = 19.24.6
+description = A toolkit for making real world machine learning and data analysis applications in C++.
+
+[source]
+type = git
+url = https://github.com/dlib/dlib.git
+branch = master
+
+[license]
+name = BSL-1.0
+
+[homepage]
+url = http://dlib.net

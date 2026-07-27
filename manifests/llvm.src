@@ -1,0 +1,14 @@
+name = llvm
+version = 20.1.0
+description = The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+
+[source]
+type = git
+url = https://github.com/llvm/llvm-project.git
+branch = main
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = https://llvm.org

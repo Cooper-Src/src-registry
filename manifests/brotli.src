@@ -1,0 +1,14 @@
+name = brotli
+version = 1.1.0
+description = Brotli compression format.
+
+[source]
+type = git
+url = https://github.com/google/brotli.git
+branch = master
+
+[license]
+name = MIT
+
+[homepage]
+url = https://github.com/google/brotli

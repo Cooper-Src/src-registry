@@ -1,0 +1,14 @@
+name = or-tools
+version = 9.12
+description = Google's Operations Research tools.
+
+[source]
+type = git
+url = https://github.com/google/or-tools.git
+branch = main
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = https://developers.google.com/optimization

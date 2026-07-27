@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name = lab-etl
 version = unknown
 description = ETL system for interpreting laboratory instrument data files and loading them into a standardized format while enforcing schema and retaining all metadata.
@@ -12,3 +13,19 @@ name = MIT
 
 [homepage]
 url = https://ulfsri.github.io/lab-etl/
+=======
+name = lab-etl
+version = unknown
+description = ETL system for interpreting laboratory instrument data files and loading them into a standardized format while enforcing schema and retaining all metadata.
+
+[source]
+type = git
+url = https://github.com/ulfsri/lab-etl
+branch = main
+
+[license]
+name = MIT
+
+[homepage]
+url = https://ulfsri.github.io/lab-etl/
+>>>>>>> 0351473 (100 packages)

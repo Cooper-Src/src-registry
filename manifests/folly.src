@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name = folly
 version = v2026.07.20.00
 description = An open-source C++ library developed and used at Facebook.
@@ -12,3 +13,19 @@ name = Apache-2.0
 
 [homepage]
 url = 
+=======
+name = folly
+version = v2026.07.20.00
+description = An open-source C++ library developed and used at Facebook.
+
+[source]
+type = git
+url = https://github.com/facebook/folly
+branch = main
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = 
+>>>>>>> 0351473 (100 packages)

@@ -1,0 +1,14 @@
+name = gflags
+version = 2.2.2
+description = The gflags package contains a C++ library that implements commandline flags processing.
+
+[source]
+type = git
+url = https://github.com/google/gflags.git
+branch = master
+
+[license]
+name = BSD-3-Clause
+
+[homepage]
+url = https://gflags.github.io/gflags

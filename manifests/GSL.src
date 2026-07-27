@@ -1,0 +1,14 @@
+name = GSL
+version = 4.2.2
+description = Guidelines Support Library for C++.
+
+[source]
+type = git
+url = https://github.com/microsoft/GSL.git
+branch = main
+
+[license]
+name = MIT
+
+[homepage]
+url = https://github.com/microsoft/GSL

@@ -1,0 +1,14 @@
+name = tesseract
+version = 5.5.0
+description = Tesseract Open Source OCR Engine.
+
+[source]
+type = git
+url = https://github.com/tesseract-ocr/tesseract.git
+branch = main
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = https://github.com/tesseract-ocr/tesseract

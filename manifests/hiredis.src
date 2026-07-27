@@ -1,0 +1,14 @@
+name = hiredis
+version = 1.2.0
+description = A minimalistic C client library for Redis.
+
+[source]
+type = git
+url = https://github.com/redis/hiredis.git
+branch = master
+
+[license]
+name = BSD-3-Clause
+
+[homepage]
+url = https://github.com/redis/hiredis

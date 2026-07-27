@@ -1,0 +1,14 @@
+name = filesystem
+version = 1.5.14
+description = An implementation of C++17 std::filesystem for C++11/C++14/C++17.
+
+[source]
+type = git
+url = https://github.com/gulrak/filesystem.git
+branch = main
+
+[license]
+name = MIT
+
+[homepage]
+url = https://github.com/gulrak/filesystem

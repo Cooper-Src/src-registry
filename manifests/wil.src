@@ -1,0 +1,14 @@
+name = wil
+version = 1.0
+description = Windows Implementation Library.
+
+[source]
+type = git
+url = https://github.com/microsoft/wil.git
+branch = master
+
+[license]
+name = MIT
+
+[homepage]
+url = https://github.com/microsoft/wil

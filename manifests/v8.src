@@ -1,0 +1,14 @@
+name = v8
+version = 13.6.0
+description = The official mirror of the V8 Git repository.
+
+[source]
+type = git
+url = https://github.com/v8/v8.git
+branch = main
+
+[license]
+name = BSD-3-Clause
+
+[homepage]
+url = https://v8.dev

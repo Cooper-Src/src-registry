@@ -1,0 +1,14 @@
+name = stduuid
+version = 1.2
+description = A C++17 cross-platform implementation for UUIDs.
+
+[source]
+type = git
+url = https://github.com/mariusbancila/stduuid.git
+branch = master
+
+[license]
+name = MIT
+
+[homepage]
+url = https://github.com/mariusbancila/stduuid

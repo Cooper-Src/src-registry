@@ -1,0 +1,14 @@
+name = postgres
+version = 17.0
+description = The PostgreSQL relational database management system.
+
+[source]
+type = git
+url = https://github.com/postgres/postgres.git
+branch = master
+
+[license]
+name = PostgreSQL
+
+[homepage]
+url = https://www.postgresql.org

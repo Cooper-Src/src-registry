@@ -1,0 +1,14 @@
+name = thrift
+version = 0.21.0
+description = Apache Thrift is a cross-language serialization and RPC framework.
+
+[source]
+type = git
+url = https://github.com/apache/thrift.git
+branch = master
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = https://thrift.apache.org

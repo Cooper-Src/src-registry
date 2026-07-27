@@ -1,0 +1,14 @@
+name = cxxopts
+version = 3.2.0
+description = Lightweight C++ command line option parser.
+
+[source]
+type = git
+url = https://github.com/jarro2783/cxxopts.git
+branch = master
+
+[license]
+name = MIT
+
+[homepage]
+url = https://github.com/jarro2783/cxxopts

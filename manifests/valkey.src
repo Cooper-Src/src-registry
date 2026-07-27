@@ -1,0 +1,14 @@
+name = valkey
+version = 8.1.0
+description = A flexible distributed key-value datastore.
+
+[source]
+type = git
+url = https://github.com/valkey-io/valkey.git
+branch = unstable
+
+[license]
+name = BSD-3-Clause
+
+[homepage]
+url = https://valkey.io

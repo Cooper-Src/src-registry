@@ -1,0 +1,14 @@
+name = nginx
+version = 1.27.0
+description = An HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
+
+[source]
+type = git
+url = https://github.com/nginx/nginx.git
+branch = master
+
+[license]
+name = BSD-2-Clause
+
+[homepage]
+url = https://nginx.org

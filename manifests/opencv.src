@@ -1,0 +1,14 @@
+name = opencv
+version = 4.11.0
+description = Open Source Computer Vision Library.
+
+[source]
+type = git
+url = https://github.com/opencv/opencv.git
+branch = 4.x
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = https://opencv.org

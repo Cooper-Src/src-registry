@@ -1,0 +1,14 @@
+name = arrow
+version = 20.0.0
+description = A cross-language development platform for in-memory analytics.
+
+[source]
+type = git
+url = https://github.com/apache/arrow.git
+branch = main
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = https://arrow.apache.org

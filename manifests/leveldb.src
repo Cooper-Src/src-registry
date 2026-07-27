@@ -1,0 +1,14 @@
+name = leveldb
+version = 1.23
+description = Fast key-value storage library.
+
+[source]
+type = git
+url = https://github.com/google/leveldb.git
+branch = main
+
+[license]
+name = BSD-3-Clause
+
+[homepage]
+url = https://github.com/google/leveldb

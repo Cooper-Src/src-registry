@@ -1,0 +1,14 @@
+name = tensorflow
+version = 2.19.0
+description = An Open Source Machine Learning Framework for Everyone.
+
+[source]
+type = git
+url = https://github.com/tensorflow/tensorflow.git
+branch = main
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = https://www.tensorflow.org

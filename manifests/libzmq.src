@@ -1,0 +1,14 @@
+name = libzmq
+version = 4.3.5
+description = ZeroMQ core engine in C++, implements ZMTP/3.1.
+
+[source]
+type = git
+url = https://github.com/zeromq/libzmq.git
+branch = master
+
+[license]
+name = MPL-2.0
+
+[homepage]
+url = https://zeromq.org

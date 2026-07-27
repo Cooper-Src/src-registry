@@ -1,0 +1,14 @@
+name = CLI11
+version = 2.5.0
+description = Command line parser for C++11 and beyond.
+
+[source]
+type = git
+url = https://github.com/CLIUtils/CLI11.git
+branch = main
+
+[license]
+name = BSD-3-Clause
+
+[homepage]
+url = https://cliutils.github.io/CLI11
