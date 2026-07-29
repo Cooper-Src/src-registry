@@ -66,7 +66,7 @@ src search ray
 Update the local registry:
 
 ```bash
-src update
+src registry update
 ```
 
 ---
