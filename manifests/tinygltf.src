@@ -1,14 +1,14 @@
 name = tinygltf
-version = 2.9
-description = Header-only glTF 2.0 loader and writer.
+version = v3.0.0
+description = Header only C++11 tiny glTF 2.0 library
 
 [source]
-type = git
-url = https://github.com/syoyo/tinygltf.git
-branch = release
+type = archive
+url = https://github.com/syoyo/tinygltf/archive/refs/tags/v3.0.0.zip
+format = zip
 
 [license]
 name = MIT
 
 [homepage]
-url = https://github.com/syoyo/tinygltf
+url = 

@@ -3,9 +3,9 @@ version = 20260526.0
 description = Abseil Common Libraries (C++)
 
 [source]
-type = git
-url = https://github.com/abseil/abseil-cpp
-branch = master
+type = archive
+url = https://github.com/abseil/abseil-cpp/archive/refs/tags/20260526.0.zip
+format = zip
 
 [license]
 name = Apache-2.0

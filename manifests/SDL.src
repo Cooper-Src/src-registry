@@ -1,0 +1,14 @@
+name = SDL
+version = release-3.4.12
+description = Simple DirectMedia Layer
+
+[source]
+type = archive
+url = https://github.com/libsdl-org/SDL/archive/refs/tags/release-3.4.12.zip
+format = zip
+
+[license]
+name = Zlib
+
+[homepage]
+url = https://libsdl.org

@@ -3,9 +3,9 @@ version = v0.23.5
 description = A modern alternative to ls
 
 [source]
-type = git
-url = https://github.com/eza-community/eza
-branch = main
+type = archive
+url = https://github.com/eza-community/eza/archive/refs/tags/v0.23.5.zip
+format = zip
 
 [license]
 name = EUPL-1.2

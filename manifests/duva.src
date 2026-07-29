@@ -3,9 +3,9 @@ version = v1.2.4
 description = A more intuitive version of du in rust
 
 [source]
-type = git
-url = https://github.com/bootandy/dust
-branch = master
+type = archive
+url = https://github.com/bootandy/dust/archive/refs/tags/v1.2.4.zip
+format = zip
 
 [license]
 name = Apache-2.0

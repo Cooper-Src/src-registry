@@ -1,14 +1,14 @@
 name = rocksdb
-version = 11.1.2
-description = A persistent key-value store for fast storage environments.
+version = v11.1.2
+description = A library that provides an embeddable, persistent key-value store for fast storage.
 
 [source]
-type = git
-url = https://github.com/facebook/rocksdb.git
-branch = main
+type = archive
+url = https://github.com/facebook/rocksdb/archive/refs/tags/v11.1.2.zip
+format = zip
 
 [license]
-name = Apache-2.0
+name = GPL-2.0
 
 [homepage]
-url = https://rocksdb.org
+url = http://rocksdb.org

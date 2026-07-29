@@ -1,14 +1,14 @@
 name = openssl
-version = 3.6
-description = TLS and cryptography toolkit.
+version = openssl-4.0.1
+description = General purpose TLS and crypto library
 
 [source]
-type = git
-url = https://github.com/openssl/openssl.git
-branch = master
+type = archive
+url = https://github.com/openssl/openssl/archive/refs/tags/openssl-4.0.1.zip
+format = zip
 
 [license]
 name = Apache-2.0
 
 [homepage]
-url = https://openssl.org
+url = https://openssl-library.org/

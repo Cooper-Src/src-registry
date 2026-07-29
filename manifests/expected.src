@@ -1,11 +1,11 @@
 name = expected
-version = 1.1.0
-description = Expected objects in C++11 and onwards.
+version = v1.3.1
+description = C++11/14/17 std::expected with functional-style extensions 
 
 [source]
-type = git
-url = https://github.com/TartanLlama/expected.git
-branch = master
+type = archive
+url = https://github.com/TartanLlama/expected/archive/refs/tags/v1.3.1.zip
+format = zip
 
 [license]
 name = CC0-1.0

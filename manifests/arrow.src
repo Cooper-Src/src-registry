@@ -1,14 +1,14 @@
 name = arrow
-version = 20.0.0
-description = A cross-language development platform for in-memory analytics.
+version = apache-arrow-25.0.0
+description = Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
 
 [source]
-type = git
-url = https://github.com/apache/arrow.git
-branch = main
+type = archive
+url = https://github.com/apache/arrow/archive/refs/tags/apache-arrow-25.0.0.zip
+format = zip
 
 [license]
 name = Apache-2.0
 
 [homepage]
-url = https://arrow.apache.org
+url = https://arrow.apache.org/

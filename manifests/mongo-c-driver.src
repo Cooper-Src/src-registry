@@ -1,14 +1,14 @@
 name = mongo-c-driver
-version = 1.30.0
-description = A high-performance MongoDB driver for C.
+version = 2.3.3
+description = The Official MongoDB driver for C language
 
 [source]
-type = git
-url = https://github.com/mongodb/mongo-c-driver.git
-branch = master
+type = archive
+url = https://github.com/mongodb/mongo-c-driver/archive/refs/tags/2.3.3.zip
+format = zip
 
 [license]
 name = Apache-2.0
 
 [homepage]
-url = https://github.com/mongodb/mongo-c-driver
+url = https://www.mongodb.com/docs/drivers/c/

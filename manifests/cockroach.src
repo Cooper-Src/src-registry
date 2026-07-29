@@ -1,0 +1,14 @@
+name = cockroach
+version = unknown
+description = CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
+
+[source]
+type = archive
+url = https://github.com/cockroachdb/cockroach/archive/refs/tags/unknown.zip
+format = zip
+
+[license]
+name = NOASSERTION
+
+[homepage]
+url = https://www.cockroachlabs.com

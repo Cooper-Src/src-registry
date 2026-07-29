@@ -1,14 +1,14 @@
 name = span
-version = 0.5.0
-description = Implementation of C++20 std::span for older C++ standards.
+version = unknown
+description = Implementation of C++20's std::span for older compilers
 
 [source]
-type = git
-url = https://github.com/tcbrindle/span.git
-branch = master
+type = archive
+url = https://github.com/tcbrindle/span/archive/refs/tags/unknown.zip
+format = zip
 
 [license]
 name = BSL-1.0
 
 [homepage]
-url = https://github.com/tcbrindle/span
+url = 

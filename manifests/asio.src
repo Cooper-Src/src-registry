@@ -1,14 +1,14 @@
 name = asio
-version = 1.36
-description = Cross-platform networking library for C++.
+version = unknown
+description = Asio C++ Library
 
 [source]
-type = git
-url = https://github.com/chriskohlhoff/asio.git
-branch = master
+type = archive
+url = https://github.com/chriskohlhoff/asio/archive/refs/tags/unknown.zip
+format = zip
 
 [license]
-name = BSL-1.0
+name = NOASSERTION
 
 [homepage]
-url = https://think-async.com
+url = http://think-async.com/Asio

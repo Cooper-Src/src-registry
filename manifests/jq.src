@@ -3,9 +3,9 @@ version = jq-1.8.2
 description = Command-line JSON processor
 
 [source]
-type = git
-url = https://github.com/jqlang/jq
-branch = master
+type = archive
+url = https://github.com/jqlang/jq/archive/refs/tags/jq-1.8.2.zip
+format = zip
 
 [license]
 name = NOASSERTION

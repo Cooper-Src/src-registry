@@ -1,1 +1,14 @@
-name = doctestversion = 2.4description = Lightweight C++ testing framework.[source]type = giturl = https://github.com/doctest/doctest.gitbranch = master[license]name = MIT[homepage]url = https://github.com/doctest/doctest
+name = doctest
+version = v2.5.3
+description = The fastest feature-rich C++11/14/17/20/23 single-header testing framework
+
+[source]
+type = archive
+url = https://github.com/doctest/doctest/archive/refs/tags/v2.5.3.zip
+format = zip
+
+[license]
+name = MIT
+
+[homepage]
+url = https://bit.ly/doctest-docs

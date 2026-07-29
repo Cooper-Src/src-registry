@@ -1,14 +1,14 @@
-name = cjson
-version = 1.7
-description = Ultralightweight JSON parser in ANSI C.
+name = cJSON
+version = v1.7.19
+description = Ultralightweight JSON parser in ANSI C
 
 [source]
-type = git
-url = https://github.com/DaveGamble/cJSON.git
-branch = master
+type = archive
+url = https://github.com/DaveGamble/cJSON/archive/refs/tags/v1.7.19.zip
+format = zip
 
 [license]
 name = MIT
 
 [homepage]
-url = https://github.com/DaveGamble/cJSON
+url = 

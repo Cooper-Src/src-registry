@@ -1,14 +1,14 @@
 name = benchmark
-version = 1.9.5
-description = A microbenchmark support library.
+version = v1.9.5
+description = A microbenchmark support library
 
 [source]
-type = git
-url = https://github.com/google/benchmark.git
-branch = main
+type = archive
+url = https://github.com/google/benchmark/archive/refs/tags/v1.9.5.zip
+format = zip
 
 [license]
 name = Apache-2.0
 
 [homepage]
-url = https://github.com/google/benchmark
+url = 

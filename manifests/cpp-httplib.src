@@ -1,14 +1,14 @@
 name = cpp-httplib
-version = 0.22
-description = Header-only C++ HTTP and HTTPS library.
+version = v0.51.0
+description = A C++ header-only HTTP/HTTPS server and client library
 
 [source]
-type = git
-url = https://github.com/yhirose/cpp-httplib.git
-branch = master
+type = archive
+url = https://github.com/yhirose/cpp-httplib/archive/refs/tags/v0.51.0.zip
+format = zip
 
 [license]
 name = MIT
 
 [homepage]
-url = https://github.com/yhirose/cpp-httplib
+url = https://yhirose.github.io/cpp-httplib/

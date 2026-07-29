@@ -3,9 +3,9 @@ version = v1.26.0
 description = ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 [source]
-type = git
-url = https://github.com/starship/starship
-branch = main
+type = archive
+url = https://github.com/starship/starship/archive/refs/tags/v1.26.0.zip
+format = zip
 
 [license]
 name = ISC

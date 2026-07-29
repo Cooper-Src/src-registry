@@ -1,14 +1,14 @@
 name = v8
-version = 13.6.0
-description = The official mirror of the V8 Git repository.
+version = unknown
+description = The official mirror of the V8 Git repository
 
 [source]
-type = git
-url = https://github.com/v8/v8.git
-branch = main
+type = archive
+url = https://github.com/v8/v8/archive/refs/tags/unknown.zip
+format = zip
 
 [license]
-name = BSD-3-Clause
+name = NOASSERTION
 
 [homepage]
-url = https://v8.dev
+url = https://chromium.googlesource.com/v8/v8.git

@@ -3,9 +3,9 @@ version = v2.0.6
 description = Adobe Source Libraries
 
 [source]
-type = git
-url = https://github.com/stlab/adobe_source_libraries
-branch = main
+type = archive
+url = https://github.com/stlab/adobe_source_libraries/archive/refs/tags/v2.0.6.zip
+format = zip
 
 [license]
 name = BSL-1.0

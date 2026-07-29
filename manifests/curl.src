@@ -1,14 +1,14 @@
 name = curl
-version = 8
-description = Command line tool and library for transferring data with URLs.
+version = curl-8_21_0
+description = A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 
 [source]
-type = git
-url = https://github.com/curl/curl.git
-branch = master
+type = archive
+url = https://github.com/curl/curl/archive/refs/tags/curl-8_21_0.zip
+format = zip
 
 [license]
-name = curl
+name = NOASSERTION
 
 [homepage]
-url = https://curl.se
+url = https://curl.se/

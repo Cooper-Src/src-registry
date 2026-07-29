@@ -1,14 +1,14 @@
 name = entt
-version = 3.15
-description = Fast and lightweight entity-component system.
+version = v4.0.0
+description = Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
 
 [source]
-type = git
-url = https://github.com/skypjack/entt.git
-branch = master
+type = archive
+url = https://github.com/skypjack/entt/archive/refs/tags/v4.0.0.zip
+format = zip
 
 [license]
 name = MIT
 
 [homepage]
-url = https://github.com/skypjack/entt
+url = https://github.com/skypjack/entt/wiki

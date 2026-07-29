@@ -1,11 +1,11 @@
-name = clickhouse
-version = 25.5.0
-description = ClickHouse is a fast open-source OLAP database management system.
+name = ClickHouse
+version = v26.5.6.64-stable
+description = ClickHouse® is a real-time analytics database management system
 
 [source]
-type = git
-url = https://github.com/clickhouse/clickhouse.git
-branch = master
+type = archive
+url = https://github.com/clickhouse/clickhouse/archive/refs/tags/v26.5.6.64-stable.zip
+format = zip
 
 [license]
 name = Apache-2.0

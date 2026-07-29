@@ -3,9 +3,9 @@ version = 0.14.7
 description = Yet another cross-platform graphical process/system monitor.
 
 [source]
-type = git
-url = https://github.com/ClementTsang/bottom
-branch = main
+type = archive
+url = https://github.com/ClementTsang/bottom/archive/refs/tags/0.14.7.zip
+format = zip
 
 [license]
 name = MIT

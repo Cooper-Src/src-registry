@@ -3,9 +3,9 @@ version = 3.7b
 description = tmux source code
 
 [source]
-type = git
-url = https://github.com/tmux/tmux
-branch = master
+type = archive
+url = https://github.com/tmux/tmux/archive/refs/tags/3.7b.zip
+format = zip
 
 [license]
 name = ISC

@@ -3,9 +3,9 @@ version = v0.26.1
 description = A cat(1) clone with wings.
 
 [source]
-type = git
-url = https://github.com/sharkdp/bat
-branch = master
+type = archive
+url = https://github.com/sharkdp/bat/archive/refs/tags/v0.26.1.zip
+format = zip
 
 [license]
 name = Apache-2.0

@@ -3,9 +3,9 @@ version = 4.8.1
 description = The user-friendly command line shell.
 
 [source]
-type = git
-url = https://github.com/fish-shell/fish-shell
-branch = master
+type = archive
+url = https://github.com/fish-shell/fish-shell/archive/refs/tags/4.8.1.zip
+format = zip
 
 [license]
 name = NOASSERTION

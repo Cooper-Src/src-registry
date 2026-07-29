@@ -1,14 +1,14 @@
 name = glad
-version = 2.0
-description = Multi-language OpenGL loader generator.
+version = v2.0.8
+description = Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 
 [source]
-type = git
-url = https://github.com/Dav1dde/glad.git
-branch = master
+type = archive
+url = https://github.com/Dav1dde/glad/archive/refs/tags/v2.0.8.zip
+format = zip
 
 [license]
-name = MIT
+name = NOASSERTION
 
 [homepage]
-url = https://glad.dav1d.de
+url = https://gen.glad.sh/

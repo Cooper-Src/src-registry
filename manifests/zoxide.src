@@ -3,9 +3,9 @@ version = v0.10.0
 description = A smarter cd command. Supports all major shells.
 
 [source]
-type = git
-url = https://github.com/ajeetdsouza/zoxide
-branch = main
+type = archive
+url = https://github.com/ajeetdsouza/zoxide/archive/refs/tags/v0.10.0.zip
+format = zip
 
 [license]
 name = MIT

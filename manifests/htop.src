@@ -3,9 +3,9 @@ version = 3.5.2
 description = htop - an interactive process viewer
 
 [source]
-type = git
-url = https://github.com/htop-dev/htop
-branch = main
+type = archive
+url = https://github.com/htop-dev/htop/archive/refs/tags/3.5.2.zip
+format = zip
 
 [license]
 name = GPL-2.0

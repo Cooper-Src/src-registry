@@ -1,14 +1,14 @@
 name = re2
-version = 2024-07-02
-description = RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines.
+version = 2025-11-05
+description = RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 
 [source]
-type = git
-url = https://github.com/google/re2.git
-branch = main
+type = archive
+url = https://github.com/google/re2/archive/refs/tags/2025-11-05.zip
+format = zip
 
 [license]
 name = BSD-3-Clause
 
 [homepage]
-url = https://github.com/google/re2
+url = 

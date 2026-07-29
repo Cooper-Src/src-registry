@@ -1,14 +1,14 @@
 name = indicators
-version = 2.3
-description = Activity Indicators for Modern C++.
+version = v2.3
+description = Activity Indicators for Modern C++
 
 [source]
-type = git
-url = https://github.com/p-ranav/indicators.git
-branch = main
+type = archive
+url = https://github.com/p-ranav/indicators/archive/refs/tags/v2.3.zip
+format = zip
 
 [license]
 name = MIT
 
 [homepage]
-url = https://github.com/p-ranav/indicators
+url = 

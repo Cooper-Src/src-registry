@@ -1,14 +1,14 @@
 name = neovim
-version = 0.11.0
-description = Vim-fork focused on extensibility and usability.
+version = v0.12.4
+description = Vim-fork focused on extensibility and usability
 
 [source]
-type = git
-url = https://github.com/neovim/neovim.git
-branch = master
+type = archive
+url = https://github.com/neovim/neovim/archive/refs/tags/v0.12.4.zip
+format = zip
 
 [license]
-name = Apache-2.0
+name = NOASSERTION
 
 [homepage]
 url = https://neovim.io

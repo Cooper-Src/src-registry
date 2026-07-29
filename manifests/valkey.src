@@ -1,11 +1,11 @@
 name = valkey
-version = 8.1.0
-description = A flexible distributed key-value datastore.
+version = 9.1.1
+description = A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 
 [source]
-type = git
-url = https://github.com/valkey-io/valkey.git
-branch = unstable
+type = archive
+url = https://github.com/valkey-io/valkey/archive/refs/tags/9.1.1.zip
+format = zip
 
 [license]
 name = BSD-3-Clause

@@ -3,9 +3,9 @@ version = 15.2.0
 description = ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
 [source]
-type = git
-url = https://github.com/BurntSushi/ripgrep
-branch = master
+type = archive
+url = https://github.com/BurntSushi/ripgrep/archive/refs/tags/15.2.0.zip
+format = zip
 
 [license]
 name = Unlicense

@@ -3,9 +3,9 @@ version = unknown
 description = Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 
 [source]
-type = git
-url = https://github.com/git/git
-branch = master
+type = archive
+url = https://github.com/git/git/archive/refs/tags/unknown.zip
+format = zip
 
 [license]
 name = NOASSERTION

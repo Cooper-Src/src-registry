@@ -1,14 +1,14 @@
 name = GSL
-version = 4.2.2
-description = Guidelines Support Library for C++.
+version = v4.2.2
+description = Guidelines Support Library
 
 [source]
-type = git
-url = https://github.com/microsoft/GSL.git
-branch = main
+type = archive
+url = https://github.com/microsoft/GSL/archive/refs/tags/v4.2.2.zip
+format = zip
 
 [license]
-name = MIT
+name = NOASSERTION
 
 [homepage]
-url = https://github.com/microsoft/GSL
+url = 

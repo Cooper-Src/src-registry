@@ -1,14 +1,14 @@
 name = imgui
-version = 1.92
-description = Bloat-free graphical user interface library for C++.
+version = v1.92.9
+description = Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 [source]
-type = git
-url = https://github.com/ocornut/imgui.git
-branch = master
+type = archive
+url = https://github.com/ocornut/imgui/archive/refs/tags/v1.92.9.zip
+format = zip
 
 [license]
 name = MIT
 
 [homepage]
-url = https://github.com/ocornut/imgui
+url = 

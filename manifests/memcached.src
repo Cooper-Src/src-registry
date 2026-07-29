@@ -1,11 +1,11 @@
 name = memcached
-version = 1.6.0
-description = High performance, distributed memory object caching system.
+version = unknown
+description = memcached development tree
 
 [source]
-type = git
-url = https://github.com/memcached/memcached.git
-branch = master
+type = archive
+url = https://github.com/memcached/memcached/archive/refs/tags/unknown.zip
+format = zip
 
 [license]
 name = BSD-3-Clause

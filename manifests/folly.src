@@ -1,11 +1,11 @@
 name = folly
-version = v2026.07.20.00
+version = v2026.07.27.00
 description = An open-source C++ library developed and used at Facebook.
 
 [source]
-type = git
-url = https://github.com/facebook/folly
-branch = main
+type = archive
+url = https://github.com/facebook/folly/archive/refs/tags/v2026.07.27.00.zip
+format = zip
 
 [license]
 name = Apache-2.0

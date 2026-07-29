@@ -3,9 +3,9 @@ version = v2.3
 description = Collaborative cheatsheets for console commands 📚.
 
 [source]
-type = git
-url = https://github.com/tldr-pages/tldr
-branch = main
+type = archive
+url = https://github.com/tldr-pages/tldr/archive/refs/tags/v2.3.zip
+format = zip
 
 [license]
 name = NOASSERTION

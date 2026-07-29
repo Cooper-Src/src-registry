@@ -3,9 +3,9 @@ version = v1.4.6
 description = A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 
 [source]
-type = git
-url = https://github.com/pemistahl/grex
-branch = main
+type = archive
+url = https://github.com/pemistahl/grex/archive/refs/tags/v1.4.6.zip
+format = zip
 
 [license]
 name = Apache-2.0

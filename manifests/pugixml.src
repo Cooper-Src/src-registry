@@ -1,14 +1,14 @@
 name = pugixml
-version = 1.15
-description = Lightweight C++ XML processing library.
+version = v1.16
+description = Light-weight, simple and fast XML parser for C++ with XPath support
 
 [source]
-type = git
-url = https://github.com/zeux/pugixml.git
-branch = master
+type = archive
+url = https://github.com/zeux/pugixml/archive/refs/tags/v1.16.zip
+format = zip
 
 [license]
 name = MIT
 
 [homepage]
-url = https://pugixml.org
+url = http://pugixml.org/

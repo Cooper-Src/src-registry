@@ -1,14 +1,14 @@
 name = date
-version = 3.0.1
-description = A date and time library based on the C++11/14/17 <chrono> header.
+version = v3.0.5
+description = A date and time library based on the C++11/14/17 <chrono> header
 
 [source]
-type = git
-url = https://github.com/howardhinnant/date.git
-branch = master
+type = archive
+url = https://github.com/howardhinnant/date/archive/refs/tags/v3.0.5.zip
+format = zip
 
 [license]
-name = MIT
+name = NOASSERTION
 
 [homepage]
-url = https://github.com/howardhinnant/date
+url = 

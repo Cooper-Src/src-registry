@@ -1,14 +1,14 @@
 name = stb
-version = 2025
-description = Collection of single-file public domain libraries for C/C++.
+version = unknown
+description = stb single-file public domain libraries for C/C++
 
 [source]
-type = git
-url = https://github.com/nothings/stb.git
-branch = master
+type = archive
+url = https://github.com/nothings/stb/archive/refs/tags/unknown.zip
+format = zip
 
 [license]
-name = Public Domain / MIT
+name = NOASSERTION
 
 [homepage]
-url = https://github.com/nothings/stb
+url = https://nothings.org

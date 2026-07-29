@@ -1,14 +1,14 @@
 name = protobuf
-version = 30.0
-description = Protocol Buffers - Google's data interchange format.
+version = v35.1
+description = Protocol Buffers - Google's data interchange format
 
 [source]
-type = git
-url = https://github.com/protocolbuffers/protobuf.git
-branch = main
+type = archive
+url = https://github.com/protocolbuffers/protobuf/archive/refs/tags/v35.1.zip
+format = zip
 
 [license]
-name = BSD-3-Clause
+name = NOASSERTION
 
 [homepage]
-url = https://protobuf.dev
+url = http://protobuf.dev

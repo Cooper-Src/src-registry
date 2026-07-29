@@ -3,9 +3,9 @@ version = unknown
 description = Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.
 
 [source]
-type = git
-url = https://github.com/bloomberg/bde
-branch = main
+type = archive
+url = https://github.com/bloomberg/bde/archive/refs/tags/unknown.zip
+format = zip
 
 [license]
 name = Apache-2.0

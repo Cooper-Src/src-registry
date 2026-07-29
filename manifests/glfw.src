@@ -1,11 +1,11 @@
 name = glfw
 version = 3.4
-description = Multi-platform library for OpenGL, OpenGL ES and Vulkan.
+description = A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 
 [source]
-type = git
-url = https://github.com/glfw/glfw.git
-branch = master
+type = archive
+url = https://github.com/glfw/glfw/archive/refs/tags/3.4.zip
+format = zip
 
 [license]
 name = Zlib

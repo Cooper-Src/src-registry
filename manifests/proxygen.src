@@ -1,14 +1,14 @@
 name = proxygen
-version = 2025.07.14.00
+version = v2026.07.27.00
 description = A collection of C++ HTTP libraries including an easy to use HTTP server.
 
 [source]
-type = git
-url = https://github.com/facebook/proxygen.git
-branch = main
+type = archive
+url = https://github.com/facebook/proxygen/archive/refs/tags/v2026.07.27.00.zip
+format = zip
 
 [license]
-name = BSD-3-Clause
+name = NOASSERTION
 
 [homepage]
-url = https://github.com/facebook/proxygen
+url = 

@@ -1,0 +1,14 @@
+name = tinyxml2
+version = 11.0.0
+description = TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
+
+[source]
+type = archive
+url = https://github.com/leethomason/tinyxml2/archive/refs/tags/11.0.0.zip
+format = zip
+
+[license]
+name = Zlib
+
+[homepage]
+url = 

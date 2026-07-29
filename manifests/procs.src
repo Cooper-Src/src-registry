@@ -3,9 +3,9 @@ version = v0.14.12
 description = A modern replacement for ps written in Rust
 
 [source]
-type = git
-url = https://github.com/dalance/procs
-branch = master
+type = archive
+url = https://github.com/dalance/procs/archive/refs/tags/v0.14.12.zip
+format = zip
 
 [license]
 name = MIT

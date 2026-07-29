@@ -1,11 +1,11 @@
 name = grpc
-version = 1.82.0
-description = A high performance, open source universal RPC framework.
+version = v1.83.0
+description = C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 
 [source]
-type = git
-url = https://github.com/grpc/grpc.git
-branch = master
+type = archive
+url = https://github.com/grpc/grpc/archive/refs/tags/v1.83.0.zip
+format = zip
 
 [license]
 name = Apache-2.0

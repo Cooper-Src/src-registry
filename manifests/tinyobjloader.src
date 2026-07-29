@@ -1,14 +1,14 @@
 name = tinyobjloader
-version = 2.0
-description = Single-file Wavefront OBJ loader.
+version = v1.0.6
+description = Tiny but powerful single file wavefront obj loader
 
 [source]
-type = git
-url = https://github.com/tinyobjloader/tinyobjloader.git
-branch = release
+type = archive
+url = https://github.com/tinyobjloader/tinyobjloader/archive/refs/tags/v1.0.6.zip
+format = zip
 
 [license]
-name = MIT
+name = NOASSERTION
 
 [homepage]
-url = https://github.com/tinyobjloader/tinyobjloader
+url = 

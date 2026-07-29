@@ -3,9 +3,9 @@ version = v14.0.0
 description = Count your code, quickly.
 
 [source]
-type = git
-url = https://github.com/XAMPPRocky/tokei
-branch = master
+type = archive
+url = https://github.com/XAMPPRocky/tokei/archive/refs/tags/v14.0.0.zip
+format = zip
 
 [license]
 name = NOASSERTION

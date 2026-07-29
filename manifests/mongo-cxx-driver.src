@@ -1,14 +1,14 @@
 name = mongo-cxx-driver
-version = 4.0.0
-description = C++ driver for MongoDB.
+version = r4.4.1
+description = C++ Driver for MongoDB
 
 [source]
-type = git
-url = https://github.com/mongodb/mongo-cxx-driver.git
-branch = master
+type = archive
+url = https://github.com/mongodb/mongo-cxx-driver/archive/refs/tags/r4.4.1.zip
+format = zip
 
 [license]
 name = Apache-2.0
 
 [homepage]
-url = https://github.com/mongodb/mongo-cxx-driver
+url = https://www.mongodb.com/docs/drivers/cxx/

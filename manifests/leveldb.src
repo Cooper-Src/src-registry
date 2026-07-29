@@ -1,14 +1,14 @@
 name = leveldb
 version = 1.23
-description = Fast key-value storage library.
+description = LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 
 [source]
-type = git
-url = https://github.com/google/leveldb.git
-branch = main
+type = archive
+url = https://github.com/google/leveldb/archive/refs/tags/1.23.zip
+format = zip
 
 [license]
 name = BSD-3-Clause
 
 [homepage]
-url = https://github.com/google/leveldb
+url = 

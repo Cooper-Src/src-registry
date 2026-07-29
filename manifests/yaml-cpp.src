@@ -1,14 +1,14 @@
 name = yaml-cpp
-version = 0.8
-description = YAML parser and emitter for C++.
+version = yaml-cpp-0.9.0
+description = A YAML parser and emitter in C++
 
 [source]
-type = git
-url = https://github.com/jbeder/yaml-cpp.git
-branch = master
+type = archive
+url = https://github.com/jbeder/yaml-cpp/archive/refs/tags/yaml-cpp-0.9.0.zip
+format = zip
 
 [license]
 name = MIT
 
 [homepage]
-url = https://github.com/jbeder/yaml-cpp
+url = 

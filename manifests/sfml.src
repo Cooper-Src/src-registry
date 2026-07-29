@@ -1,14 +1,14 @@
-name = sfml
-version = 3.0
-description = Simple and Fast Multimedia Library.
+name = SFML
+version = 3.1.0
+description = Simple and Fast Multimedia Library
 
 [source]
-type = git
-url = https://github.com/SFML/SFML.git
-branch = master
+type = archive
+url = https://github.com/SFML/SFML/archive/refs/tags/3.1.0.zip
+format = zip
 
 [license]
 name = Zlib
 
 [homepage]
-url = https://www.sfml-dev.org
+url = https://www.sfml-dev.org/

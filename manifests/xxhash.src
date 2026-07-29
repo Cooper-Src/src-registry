@@ -1,14 +1,14 @@
-name = xxhash
-version = 0.8
-description = Extremely fast non-cryptographic hash algorithm.
+name = xxHash
+version = v0.8.3
+description = Extremely fast non-cryptographic hash algorithm
 
 [source]
-type = git
-url = https://github.com/Cyan4973/xxHash.git
-branch = dev
+type = archive
+url = https://github.com/Cyan4973/xxHash/archive/refs/tags/v0.8.3.zip
+format = zip
 
 [license]
-name = BSD-2-Clause
+name = NOASSERTION
 
 [homepage]
-url = https://github.com/Cyan4973/xxHash
+url = http://www.xxhash.com/

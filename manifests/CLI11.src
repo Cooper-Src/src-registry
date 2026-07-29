@@ -1,14 +1,14 @@
 name = CLI11
-version = 2.5.0
-description = Command line parser for C++11 and beyond.
+version = v2.6.2
+description = CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
 
 [source]
-type = git
-url = https://github.com/CLIUtils/CLI11.git
-branch = main
+type = archive
+url = https://github.com/CLIUtils/CLI11/archive/refs/tags/v2.6.2.zip
+format = zip
 
 [license]
-name = BSD-3-Clause
+name = NOASSERTION
 
 [homepage]
-url = https://cliutils.github.io/CLI11
+url = https://cliutils.github.io/CLI11/book/

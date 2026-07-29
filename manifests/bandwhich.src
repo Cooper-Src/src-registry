@@ -3,9 +3,9 @@ version = v0.23.1
 description = Terminal bandwidth utilization tool
 
 [source]
-type = git
-url = https://github.com/imsnif/bandwhich
-branch = main
+type = archive
+url = https://github.com/imsnif/bandwhich/archive/refs/tags/v0.23.1.zip
+format = zip
 
 [license]
 name = MIT

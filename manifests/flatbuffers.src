@@ -1,14 +1,14 @@
 name = flatbuffers
-version = 25.1.24
-description = FlatBuffers: Memory Efficient Serialization Library.
+version = v25.12.19-2026-02-06-03fffb2
+description = FlatBuffers: Memory Efficient Serialization Library
 
 [source]
-type = git
-url = https://github.com/google/flatbuffers.git
-branch = master
+type = archive
+url = https://github.com/google/flatbuffers/archive/refs/tags/v25.12.19-2026-02-06-03fffb2.zip
+format = zip
 
 [license]
 name = Apache-2.0
 
 [homepage]
-url = https://flatbuffers.dev
+url = https://flatbuffers.dev/

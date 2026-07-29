@@ -3,9 +3,9 @@ version = v0.74.1
 description = :cherry_blossom: A command-line fuzzy finder
 
 [source]
-type = git
-url = https://github.com/junegunn/fzf
-branch = master
+type = archive
+url = https://github.com/junegunn/fzf/archive/refs/tags/v0.74.1.zip
+format = zip
 
 [license]
 name = MIT

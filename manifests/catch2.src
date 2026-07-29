@@ -1,14 +1,14 @@
-name = catch2
-version = 3.10
-description = Modern C++ testing framework.
+name = Catch2
+version = v3.15.3
+description = A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 
 [source]
-type = git
-url = https://github.com/catchorg/Catch2.git
-branch = devel
+type = archive
+url = https://github.com/catchorg/Catch2/archive/refs/tags/v3.15.3.zip
+format = zip
 
 [license]
 name = BSL-1.0
 
 [homepage]
-url = https://github.com/catchorg/Catch2
+url = https://discord.gg/4CWS9zD

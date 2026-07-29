@@ -1,14 +1,14 @@
 name = tabulate
-version = 1.5
-description = Table Maker for Modern C++.
+version = v1.5
+description = Table Maker for Modern C++
 
 [source]
-type = git
-url = https://github.com/p-ranav/tabulate.git
-branch = main
+type = archive
+url = https://github.com/p-ranav/tabulate/archive/refs/tags/v1.5.zip
+format = zip
 
 [license]
 name = MIT
 
 [homepage]
-url = https://github.com/p-ranav/tabulate
+url = 

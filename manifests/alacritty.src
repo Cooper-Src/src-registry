@@ -3,9 +3,9 @@ version = v0.17.0
 description = A cross-platform, OpenGL terminal emulator.
 
 [source]
-type = git
-url = https://github.com/alacritty/alacritty
-branch = master
+type = archive
+url = https://github.com/alacritty/alacritty/archive/refs/tags/v0.17.0.zip
+format = zip
 
 [license]
 name = Apache-2.0
