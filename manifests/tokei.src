@@ -1,0 +1,14 @@
+name = tokei
+version = v14.0.0
+description = Count your code, quickly.
+
+[source]
+type = git
+url = https://github.com/XAMPPRocky/tokei
+branch = master
+
+[license]
+name = NOASSERTION
+
+[homepage]
+url = 

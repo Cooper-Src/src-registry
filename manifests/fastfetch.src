@@ -1,0 +1,14 @@
+name = fastfetch
+version = 2.66.0
+description = A maintained, feature-rich and performance oriented, neofetch like system information tool.
+
+[source]
+type = git
+url = https://github.com/fastfetch-cli/fastfetch
+branch = dev
+
+[license]
+name = MIT
+
+[homepage]
+url = 

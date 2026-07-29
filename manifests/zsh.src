@@ -1,0 +1,14 @@
+name = zsh
+version = unknown
+description = Mirror of the Z shell source code repository.
+
+[source]
+type = git
+url = https://github.com/zsh-users/zsh
+branch = master
+
+[license]
+name = NOASSERTION
+
+[homepage]
+url = http://www.zsh.org

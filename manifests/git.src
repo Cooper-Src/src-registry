@@ -1,14 +1,14 @@
 name = git
-version = 2.49.0
-description = Git Source Code Mirror.
+version = unknown
+description = Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 
 [source]
 type = git
-url = https://github.com/git/git.git
+url = https://github.com/git/git
 branch = master
 
 [license]
-name = GPL-2.0
+name = NOASSERTION
 
 [homepage]
-url = https://git-scm.com
+url = 

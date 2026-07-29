@@ -1,0 +1,14 @@
+name = procs
+version = v0.14.12
+description = A modern replacement for ps written in Rust
+
+[source]
+type = git
+url = https://github.com/dalance/procs
+branch = master
+
+[license]
+name = MIT
+
+[homepage]
+url = 

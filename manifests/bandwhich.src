@@ -1,0 +1,14 @@
+name = bandwhich
+version = v0.23.1
+description = Terminal bandwidth utilization tool
+
+[source]
+type = git
+url = https://github.com/imsnif/bandwhich
+branch = main
+
+[license]
+name = MIT
+
+[homepage]
+url = 

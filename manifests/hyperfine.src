@@ -1,0 +1,14 @@
+name = hyperfine
+version = v1.20.0
+description = A command-line benchmarking tool
+
+[source]
+type = git
+url = https://github.com/sharkdp/hyperfine
+branch = master
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = 

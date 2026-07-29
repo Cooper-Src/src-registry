@@ -1,0 +1,14 @@
+name = 
+version = unknown
+description = 
+
+[source]
+type = git
+url = 
+branch = 
+
+[license]
+name = 
+
+[homepage]
+url = 

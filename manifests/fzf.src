@@ -1,0 +1,14 @@
+name = fzf
+version = v0.74.1
+description = :cherry_blossom: A command-line fuzzy finder
+
+[source]
+type = git
+url = https://github.com/junegunn/fzf
+branch = master
+
+[license]
+name = MIT
+
+[homepage]
+url = https://junegunn.github.io/fzf/

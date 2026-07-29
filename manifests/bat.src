@@ -1,0 +1,14 @@
+name = bat
+version = v0.26.1
+description = A cat(1) clone with wings.
+
+[source]
+type = git
+url = https://github.com/sharkdp/bat
+branch = master
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = 

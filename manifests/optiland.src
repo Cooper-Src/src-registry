@@ -1,0 +1,14 @@
+name = optiland
+version = v0.6.0
+description = Comprehensive optical design, optimization, and analysis in Python, including GPU-accelerated and differentiable ray tracing via PyTorch.
+
+[source]
+type = git
+url = https://github.com/optiland/optiland
+branch = master
+
+[license]
+name = MIT
+
+[homepage]
+url = https://optiland.readthedocs.io/

@@ -1,0 +1,14 @@
+name = bottom
+version = 0.14.7
+description = Yet another cross-platform graphical process/system monitor.
+
+[source]
+type = git
+url = https://github.com/ClementTsang/bottom
+branch = main
+
+[license]
+name = MIT
+
+[homepage]
+url = https://bottom.pages.dev

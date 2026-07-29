@@ -1,0 +1,14 @@
+name = starship
+version = v1.26.0
+description = ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+[source]
+type = git
+url = https://github.com/starship/starship
+branch = main
+
+[license]
+name = ISC
+
+[homepage]
+url = https://starship.rs

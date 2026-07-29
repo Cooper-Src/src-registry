@@ -1,0 +1,14 @@
+name = btop
+version = v1.4.7
+description = A monitor of resources
+
+[source]
+type = git
+url = https://github.com/aristocratos/btop
+branch = main
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = 

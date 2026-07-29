@@ -1,0 +1,14 @@
+name = fish-shell
+version = 4.8.1
+description = The user-friendly command line shell.
+
+[source]
+type = git
+url = https://github.com/fish-shell/fish-shell
+branch = master
+
+[license]
+name = NOASSERTION
+
+[homepage]
+url = https://fishshell.com

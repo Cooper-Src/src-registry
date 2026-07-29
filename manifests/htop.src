@@ -1,0 +1,14 @@
+name = htop
+version = 3.5.2
+description = htop - an interactive process viewer
+
+[source]
+type = git
+url = https://github.com/htop-dev/htop
+branch = main
+
+[license]
+name = GPL-2.0
+
+[homepage]
+url = https://htop.dev/

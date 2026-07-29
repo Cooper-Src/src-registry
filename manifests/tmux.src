@@ -1,0 +1,14 @@
+name = tmux
+version = 3.7b
+description = tmux source code
+
+[source]
+type = git
+url = https://github.com/tmux/tmux
+branch = master
+
+[license]
+name = ISC
+
+[homepage]
+url = 

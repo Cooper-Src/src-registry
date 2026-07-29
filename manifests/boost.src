@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name = boost
 version = boost-1.92.0.beta1
 description = Super-project for modularized Boost
@@ -13,19 +12,3 @@ name = BSL-1.0
 
 [homepage]
 url = https://github.com/boostorg/wiki/wiki/Getting-Started%3A-Overview
-=======
-name = boost
-version = boost-1.92.0.beta1
-description = Super-project for modularized Boost
-
-[source]
-type = git
-url = https://github.com/boostorg/boost
-branch = master
-
-[license]
-name = BSL-1.0
-
-[homepage]
-url = https://github.com/boostorg/wiki/wiki/Getting-Started%3A-Overview
->>>>>>> 0351473 (100 packages)

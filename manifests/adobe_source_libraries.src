@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name = adobe_source_libraries
 version = v2.0.6
 description = Adobe Source Libraries
@@ -13,19 +12,3 @@ name = BSL-1.0
 
 [homepage]
 url = http://stlab.github.io/adobe_source_libraries/
-=======
-name = adobe_source_libraries
-version = v2.0.6
-description = Adobe Source Libraries
-
-[source]
-type = git
-url = https://github.com/stlab/adobe_source_libraries
-branch = main
-
-[license]
-name = BSL-1.0
-
-[homepage]
-url = http://stlab.github.io/adobe_source_libraries/
->>>>>>> 0351473 (100 packages)

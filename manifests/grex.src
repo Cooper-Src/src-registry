@@ -1,0 +1,14 @@
+name = grex
+version = v1.4.6
+description = A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
+
+[source]
+type = git
+url = https://github.com/pemistahl/grex
+branch = main
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = https://pemistahl.github.io/grex-js/

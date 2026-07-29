@@ -1,0 +1,14 @@
+name = tldr
+version = v2.3
+description = Collaborative cheatsheets for console commands 📚.
+
+[source]
+type = git
+url = https://github.com/tldr-pages/tldr
+branch = main
+
+[license]
+name = NOASSERTION
+
+[homepage]
+url = https://tldr.sh

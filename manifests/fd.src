@@ -1,0 +1,14 @@
+name = fd
+version = v10.4.2
+description = A simple, fast and user-friendly alternative to 'find'
+
+[source]
+type = git
+url = https://github.com/sharkdp/fd
+branch = master
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = 

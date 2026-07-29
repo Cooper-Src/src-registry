@@ -1,0 +1,14 @@
+name = eza
+version = v0.23.5
+description = A modern alternative to ls
+
+[source]
+type = git
+url = https://github.com/eza-community/eza
+branch = main
+
+[license]
+name = EUPL-1.2
+
+[homepage]
+url = https://eza.rocks
