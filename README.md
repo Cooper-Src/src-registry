@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # src-registry
 
 > The official package registry for the **src** package manager.
