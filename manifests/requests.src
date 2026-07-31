@@ -1,0 +1,14 @@
+name = requests
+version = v2.34.2
+description = A simple, yet elegant, HTTP library.
+
+[source]
+type = archive
+url = https://github.com/psf/requests/archive/refs/tags/v2.34.2.zip
+format = zip
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = https://requests.readthedocs.io/en/latest/

@@ -1,0 +1,14 @@
+name = egui
+version = 0.35.0
+description = egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+
+[source]
+type = archive
+url = https://github.com/emilk/egui/archive/refs/tags/0.35.0.zip
+format = zip
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = https://www.egui.rs/

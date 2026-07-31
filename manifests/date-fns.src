@@ -1,0 +1,14 @@
+name = date-fns
+version = v4.4.0
+description = ⏳ Modern JavaScript date utility library ⌛️
+
+[source]
+type = archive
+url = https://github.com/date-fns/date-fns/archive/refs/tags/v4.4.0.zip
+format = zip
+
+[license]
+name = 
+
+[homepage]
+url = https://date-fns.org

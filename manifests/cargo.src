@@ -1,0 +1,14 @@
+name = cargo
+version = unknown
+description = The Rust package manager
+
+[source]
+type = archive
+url = https://github.com/rust-lang/cargo/archive/refs/tags/unknown.zip
+format = zip
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = https://doc.rust-lang.org/cargo

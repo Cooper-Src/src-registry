@@ -1,0 +1,14 @@
+name = chardet
+version = 7.4.3
+description = Python character encoding detector
+
+[source]
+type = archive
+url = https://github.com/chardet/chardet/archive/refs/tags/7.4.3.zip
+format = zip
+
+[license]
+name = 0BSD
+
+[homepage]
+url = 

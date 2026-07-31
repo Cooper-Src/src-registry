@@ -1,0 +1,14 @@
+name = emittery
+version = v2.0.0
+description = Simple and modern async event emitter
+
+[source]
+type = archive
+url = https://github.com/sindresorhus/emittery/archive/refs/tags/v2.0.0.zip
+format = zip
+
+[license]
+name = MIT
+
+[homepage]
+url = 

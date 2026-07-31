@@ -1,0 +1,14 @@
+name = logrus
+version = v1.9.4
+description = Structured, pluggable logging for Go.
+
+[source]
+type = archive
+url = https://github.com/sirupsen/logrus/archive/refs/tags/v1.9.4.zip
+format = zip
+
+[license]
+name = MIT
+
+[homepage]
+url = 

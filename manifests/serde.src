@@ -1,0 +1,14 @@
+name = serde
+version = v1.0.229
+description = Serialization framework for Rust
+
+[source]
+type = archive
+url = https://github.com/serde-rs/serde/archive/refs/tags/v1.0.229.zip
+format = zip
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = https://serde.rs/

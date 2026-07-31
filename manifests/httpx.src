@@ -1,0 +1,14 @@
+name = httpx
+version = 0.28.1
+description = A next generation HTTP client for Python. 🦋
+
+[source]
+type = archive
+url = https://github.com/encode/httpx/archive/refs/tags/0.28.1.zip
+format = zip
+
+[license]
+name = BSD-3-Clause
+
+[homepage]
+url = https://www.python-httpx.org/

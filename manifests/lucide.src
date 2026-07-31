@@ -1,0 +1,14 @@
+name = lucide
+version = 1.28.0
+description = Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+
+[source]
+type = archive
+url = https://github.com/lucide-icons/lucide/archive/refs/tags/1.28.0.zip
+format = zip
+
+[license]
+name = NOASSERTION
+
+[homepage]
+url = https://lucide.dev

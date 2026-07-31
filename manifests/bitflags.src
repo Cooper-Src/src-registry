@@ -1,0 +1,14 @@
+name = bitflags
+version = 2.13.1
+description = A macro to generate structures which behave like bitflags
+
+[source]
+type = archive
+url = https://github.com/bitflags/bitflags/archive/refs/tags/2.13.1.zip
+format = zip
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = 

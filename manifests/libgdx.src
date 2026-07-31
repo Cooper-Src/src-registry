@@ -1,0 +1,14 @@
+name = libgdx
+version = 1.14.2
+description = Desktop/Android/HTML5/iOS Java game development framework
+
+[source]
+type = archive
+url = https://github.com/libgdx/libgdx/archive/refs/tags/1.14.2.zip
+format = zip
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = http://www.libgdx.com/

@@ -1,0 +1,14 @@
+name = image
+version = unknown
+description = Encoding and decoding images in Rust
+
+[source]
+type = archive
+url = https://github.com/image-rs/image/archive/refs/tags/unknown.zip
+format = zip
+
+[license]
+name = Apache-2.0
+
+[homepage]
+url = 

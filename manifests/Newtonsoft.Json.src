@@ -1,0 +1,14 @@
+name = Newtonsoft.Json
+version = 13.0.4
+description = Json.NET is a popular high-performance JSON framework for .NET
+
+[source]
+type = archive
+url = https://github.com/JamesNK/Newtonsoft.Json/archive/refs/tags/13.0.4.zip
+format = zip
+
+[license]
+name = MIT
+
+[homepage]
+url = https://www.newtonsoft.com/json

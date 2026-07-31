@@ -1,0 +1,14 @@
+name = textual
+version = v8.2.8
+description = The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+
+[source]
+type = archive
+url = https://github.com/Textualize/textual/archive/refs/tags/v8.2.8.zip
+format = zip
+
+[license]
+name = MIT
+
+[homepage]
+url = https://textual.textualize.io/

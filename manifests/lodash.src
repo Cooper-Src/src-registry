@@ -1,0 +1,14 @@
+name = lodash
+version = 4.18.1
+description = A modern JavaScript utility library delivering modularity, performance, & extras.
+
+[source]
+type = archive
+url = https://github.com/lodash/lodash/archive/refs/tags/4.18.1.zip
+format = zip
+
+[license]
+name = NOASSERTION
+
+[homepage]
+url = https://lodash.com/

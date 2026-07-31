@@ -4,7 +4,7 @@ description = Static reflection for enums (to string, from string, iteration) fo
 
 [source]
 type = archive
-url = https://github.com/neargye/magic_enum/archive/refs/tags/v0.9.8.zip
+url = https://github.com/Neargye/magic_enum/archive/refs/tags/v0.9.8.zip
 format = zip
 
 [license]

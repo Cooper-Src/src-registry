@@ -1,0 +1,14 @@
+name = testify
+version = v1.11.1
+description = A toolkit with common assertions and mocks that plays nicely with the standard library
+
+[source]
+type = archive
+url = https://github.com/stretchr/testify/archive/refs/tags/v1.11.1.zip
+format = zip
+
+[license]
+name = MIT
+
+[homepage]
+url = https://pkg.go.dev/github.com/stretchr/testify

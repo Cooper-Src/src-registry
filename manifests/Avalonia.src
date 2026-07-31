@@ -1,0 +1,14 @@
+name = Avalonia
+version = 12.1.1
+description = Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
+
+[source]
+type = archive
+url = https://github.com/AvaloniaUI/Avalonia/archive/refs/tags/12.1.1.zip
+format = zip
+
+[license]
+name = MIT
+
+[homepage]
+url = https://avaloniaui.net

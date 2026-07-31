@@ -1,0 +1,14 @@
+name = uuid
+version = v1.6.0
+description = Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
+
+[source]
+type = archive
+url = https://github.com/google/uuid/archive/refs/tags/v1.6.0.zip
+format = zip
+
+[license]
+name = BSD-3-Clause
+
+[homepage]
+url = 

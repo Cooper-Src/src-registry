@@ -1,0 +1,14 @@
+name = zustand
+version = v5.0.14
+description = 🐻 Bear necessities for state management in React
+
+[source]
+type = archive
+url = https://github.com/pmndrs/zustand/archive/refs/tags/v5.0.14.zip
+format = zip
+
+[license]
+name = MIT
+
+[homepage]
+url = https://zustand-demo.pmnd.rs/

@@ -1,0 +1,14 @@
+name = headlessui
+version = @headlessui/react@v2.2.10
+description = Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+
+[source]
+type = archive
+url = https://github.com/tailwindlabs/headlessui/archive/refs/tags/@headlessui/react@v2.2.10.zip
+format = zip
+
+[license]
+name = MIT
+
+[homepage]
+url = https://headlessui.com

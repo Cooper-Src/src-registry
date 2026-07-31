@@ -1,0 +1,14 @@
+name = floating-ui
+version = @floating-ui/vue@2.0.1
+description = A JavaScript library to position floating elements and create interactions for them.
+
+[source]
+type = archive
+url = https://github.com/floating-ui/floating-ui/archive/refs/tags/@floating-ui/vue@2.0.1.zip
+format = zip
+
+[license]
+name = MIT
+
+[homepage]
+url = https://floating-ui.com

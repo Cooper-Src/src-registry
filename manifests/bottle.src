@@ -1,0 +1,14 @@
+name = bottle
+version = 0.13.4
+description = bottle.py is a fast and simple micro-framework for python web-applications.
+
+[source]
+type = archive
+url = https://github.com/bottlepy/bottle/archive/refs/tags/0.13.4.zip
+format = zip
+
+[license]
+name = MIT
+
+[homepage]
+url = http://bottlepy.org/

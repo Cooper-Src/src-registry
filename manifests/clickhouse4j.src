@@ -1,0 +1,14 @@
+name = clickhouse4j
+version = clickhouse4j-1.4.3
+description = Lighter and faster alternative for the official ClickHouse JDBC driver
+
+[source]
+type = archive
+url = https://github.com/Blynk-Technologies/clickhouse4j/archive/refs/tags/clickhouse4j-1.4.3.zip
+format = zip
+
+[license]
+name = NOASSERTION
+
+[homepage]
+url = 

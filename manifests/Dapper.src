@@ -1,0 +1,14 @@
+name = Dapper
+version = 2.1.79
+description = Dapper - a simple object mapper for .Net
+
+[source]
+type = archive
+url = https://github.com/DapperLib/Dapper/archive/refs/tags/2.1.79.zip
+format = zip
+
+[license]
+name = NOASSERTION
+
+[homepage]
+url = https://www.learndapper.com/

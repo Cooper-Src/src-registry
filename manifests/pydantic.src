@@ -1,0 +1,14 @@
+name = pydantic
+version = v2.13.4
+description = Data validation using Python type hints
+
+[source]
+type = archive
+url = https://github.com/pydantic/pydantic/archive/refs/tags/v2.13.4.zip
+format = zip
+
+[license]
+name = MIT
+
+[homepage]
+url = https://pydantic.dev/docs/validation

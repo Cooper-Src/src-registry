@@ -1,0 +1,14 @@
+name = libwebp
+version = unknown
+description = Mirror only. Please do not send pull requests. See https://chromium.googlesource.com/webm/libwebp/+/HEAD/CONTRIBUTING.md.
+
+[source]
+type = archive
+url = https://github.com/webmproject/libwebp/archive/refs/tags/unknown.zip
+format = zip
+
+[license]
+name = BSD-3-Clause
+
+[homepage]
+url = 

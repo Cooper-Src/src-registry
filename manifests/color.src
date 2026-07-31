@@ -1,0 +1,14 @@
+name = color
+version = v1.19.0
+description = Color package for Go (golang)
+
+[source]
+type = archive
+url = https://github.com/fatih/color/archive/refs/tags/v1.19.0.zip
+format = zip
+
+[license]
+name = MIT
+
+[homepage]
+url = https://pkg.go.dev/github.com/fatih/color
