@@ -25,7 +25,7 @@
         "cargo-binstall.src",
         "catch2.src",
         "cjson.src",
-        "cli11.src",
+        "CLI11.src",
         "clickhouse.src",
         "cockroach.src",
         "cockroachdb.src",
