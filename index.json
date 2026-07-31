@@ -35,10 +35,7 @@
         "catch2.src",
         "chardet.src",
         "cjson.src",
-<<<<<<< HEAD
         "CLI11.src",
-=======
->>>>>>> 8b48710 (Packages updated)
         "clickhouse.src",
         "clickhouse4j.src",
         "cockroach.src",
